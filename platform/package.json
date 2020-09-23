@@ -1,0 +1,25 @@
+{
+  "name": "devops-demo",
+  "version": "1.0.0",
+  "description": "Learn devops automation",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./src/app.js",
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ragar02/helloWorld.git"
+  },
+  "author": "Arvind Raghavendran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ragar02/helloWorld/issues"
+  },
+  "homepage": "https://github.com/ragar02/helloWorld#readme"
+}
